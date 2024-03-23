@@ -14,7 +14,7 @@ This repository contains solutions for various particle physics tasks using deep
 - Trained the model using K-Fold Cross Validation. I trained the model for 5 folds.
 - Ensured no overfitting on the test dataset
 
-#### Notebook: [Common Task 1.ipynb]([Electron_Photon_Classification.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/common-task-1.ipynb))
+#### Notebook: [Common Task 1.ipynb]([https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/common-task-1.ipynb])
 - Includes data loading, model definition, training, evaluation, and model weights
 
 ## Common Task 2: Deep Learning based Quark-Gluon Classification
