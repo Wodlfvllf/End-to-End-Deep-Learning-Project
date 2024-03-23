@@ -1,4 +1,4 @@
-# Particle Physics Projects
+# End To End Deep Learning Project
 
 This repository contains solutions for various particle physics tasks using deep learning models. Below are the details of each task along with their respective implementations.
 
@@ -10,10 +10,11 @@ This repository contains solutions for various particle physics tasks using deep
 
 ### Solution
 - Implemented a ResNet-15 model for classification
-- Trained the model on 80% of the data and evaluated on the remaining 20%
+- I used ensembling of two Resnet-15 models, one for learning pixel distribution of hit energy channel and other of time channel.
+- Trained the model using K-Fold Cross Validation. I trained the model for 5 folds.
 - Ensured no overfitting on the test dataset
 
-#### Notebook: [Electron_Photon_Classification.ipynb](Electron_Photon_Classification.ipynb)
+#### Notebook: [Common Task 1.ipynb]([Electron_Photon_Classification.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/common-task-1.ipynb))
 - Includes data loading, model definition, training, evaluation, and model weights
 
 ## Common Task 2: Deep Learning based Quark-Gluon Classification
