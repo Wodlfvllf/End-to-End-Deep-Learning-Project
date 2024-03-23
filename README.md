@@ -18,8 +18,17 @@ This repository contains solutions for various particle physics tasks using deep
 - Trained the model using K-Fold Cross Validation. I trained the model for 5 folds.
 - Ensured no overfitting on the test dataset
 
-#### Notebook: [Common Task 1.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/common-task-1.ipynb)
+#### Training Notebook:
+Here are the notebooks showing complete training process
+
+- [Common Task 1.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/common-task-1.ipynb)
 - Includes data loading, model definition, training, evaluation, and model weights
+
+#### Example Notebook:
+These are Example Notebooks to inference or reproduce the results
+
+-  [Example Test.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/Example%20Test.ipynb)
+-  [Example Train.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/Example%20Train.ipynb)
 
 ## Common Task 2: Deep Learning based Quark-Gluon Classification
 
@@ -46,9 +55,18 @@ This repository contains solutions for various particle physics tasks using deep
 - Ensured no overfitting on the test dataset
 
 #### Notebooks:
-- [Quark_Gluon_Classification_VGG.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/vgg-task2.ipynb)
-- [Quark_Gluon_Classification_Custom.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/VisionTransformer%20-%20Task%202.ipynb)
+Here are the notebooks showing complete training process
+
+- [vgg-task2.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/vgg-task2.ipynb)
+- [VisionTransformer - Task 2.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/VisionTransformer%20-%20Task%202.ipynb)
 - Include data loading, model definition, training, evaluation, and model weights
+
+#### Example Notebook:
+These are Example Notebooks to inference or reproduce the results
+
+-  [Example Test vgg12.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/Example_test_vgg.ipynb)
+-  [Example Test VIT.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/Example_test_vit.ipynb)
+
 
 ## Specific Task 3d: Masked Auto-Encoder for Efficient End-to-End Particle Reconstruction and Compression
 
@@ -89,10 +107,20 @@ Both models are fine-tuned on learning rate of 1.e-5 using AdamW optimizer.
 
             
 #### Notebooks: 
+Here are the notebooks showing complete training process.
+
 - [MAE_Particle_Reconstruction.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Masked_Autoencoder/Masked%20Autoencoder.ipynb)
 - [linear-probing-Pretraining.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Linear%20Probing%20MAE/linear-probing-Pretraining.ipynb)
 - [linear-probing-without Pretraining.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Linear%20Probing%20MAE/linear-probing-without%20Pretraining.ipynb)
 - Includes data loading, model training (pre-training and fine-tuning), evaluation, and model weights
+
+#### Example Notebooks:
+These are Example Notebooks to inference or reproduce the results
+
+-  [Example Train MAE](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Masked_Autoencoder/Example_Train.ipynb)
+-  [Example Test MAE](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Masked_Autoencoder/Example_Test.ipynb)
+-  [Example Test Linear Probing](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Linear%20Probing%20MAE/Example_test_linear%20probe.ipynb)
+-  [Example Train Linear Probing](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Linear%20Probing%20MAE/Example%20Train%20Linear%20Probing.ipynb)
 
 ## Dependencies
 - Python 3.x
