@@ -46,8 +46,8 @@ This repository contains solutions for various particle physics tasks using deep
 - Ensured no overfitting on the test dataset
 
 #### Notebooks:
-- [Quark_Gluon_Classification_VGG.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/VisionTransformer%20-%20Task%202.ipynb)
-- [Quark_Gluon_Classification_Custom.ipynb]([Quark_Gluon_Classification_Custom.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/vgg-task2.ipynb))
+- [Quark_Gluon_Classification_VGG.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/vgg-task2.ipynb)
+- [Quark_Gluon_Classification_Custom.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/VisionTransformer%20-%20Task%202.ipynb)
 - Include data loading, model definition, training, evaluation, and model weights
 
 ## Specific Task 3d: Masked Auto-Encoder for Efficient End-to-End Particle Reconstruction and Compression
