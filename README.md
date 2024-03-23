@@ -64,7 +64,19 @@ This repository contains solutions for various particle physics tasks using deep
 - Compared results with a model trained from scratch
 - Ensured no overfitting on the test dataset
 
-#### Notebook: [MAE_Particle_Reconstruction.ipynb](MAE_Particle_Reconstruction.ipynb)
+###Image Reconstruction
+
+### Comparison of With and Without Pretrained Vision Transformer Model
+                          | Model               | Accuracy |
+                          |---------------------|----------|
+                          | With Pretrained     | 0.8548   |
+                          | Without Pretrained  | 0.88     |
+
+            
+#### Notebooks: 
+- [MAE_Particle_Reconstruction.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Masked_Autoencoder/Masked%20Autoencoder.ipynb)
+- [linear-probing-Pretraining.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Linear%20Probing%20MAE/linear-probing-Pretraining.ipynb)
+- [linear-probing-without Pretraining.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Linear%20Probing%20MAE/linear-probing-without%20Pretraining.ipynb)
 - Includes data loading, model training (pre-training and fine-tuning), evaluation, and model weights
 
 ## Dependencies
