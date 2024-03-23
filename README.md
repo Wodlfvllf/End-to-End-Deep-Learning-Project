@@ -67,12 +67,12 @@ This repository contains solutions for various particle physics tasks using deep
 ### Image Reconstruction
 ####                                           Original
 <p align="center">
-  <img src="https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Original.jpg" width="350" height = "200" title="hover text">
+  <img src="https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Original.jpg" width="400" height = "50" title="hover text">
 </p>
 
 ####                                           Reconstructed
 <p align="center">
-  <img src="https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Reconstructed.jpg" width="350" height = "200" title="hover text">
+  <img src="https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Reconstructed.jpg" width="400" height = "50" title="hover text">
 </p>
 
 ### Comparison of With and Without Pretrained Vision Transformer Model
