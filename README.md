@@ -70,7 +70,7 @@ This repository contains solutions for various particle physics tasks using deep
                           | Model               | Accuracy |
                           |---------------------|----------|
                           | With Pretrained     | 0.8548   |
-                          | Without Pretrained  | 0.88     |
+                          | Without Pretrained  | 0.0951   |
 
             
 #### Notebooks: 
