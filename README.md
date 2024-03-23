@@ -28,7 +28,7 @@ This repository contains solutions for various particle physics tasks using deep
 - Images are represented as 125x125 matrices in three-channel images
 
 <p align="center">
-  <img src="[https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/VisionTransfomer.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40siddheshb008%2Fvgg-net-architecture-explained-71179310050f&psig=AOvVaw1eWOmxYGtBVsb2WZEc-Mqm&ust=1711266454138000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPipjL3yiYUDFQAAAAAdAAAAABAD)" width="350" title="hover text">
+  <img src="https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/1_B_ZaaaBg2njhp8SThjCufA.png" width="350" title="hover text">
 </p>
 
 
