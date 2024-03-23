@@ -84,6 +84,8 @@ This repository contains solutions for various particle physics tasks using deep
                           |---------------------|----------|
                           | With Pretrained     | 0.8548   |
                           | Without Pretrained  | 0.0951   |
+                          
+Both models are fine-tuned on learning rate of 1.e-5 using AdamW optimizer.
 
             
 #### Notebooks: 
