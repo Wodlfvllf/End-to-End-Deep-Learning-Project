@@ -8,6 +8,9 @@ This repository contains solutions for various particle physics tasks using deep
 - Two types of particles: electrons and photons
 - Images are represented as 32x32 matrices with two channels: hit energy and time
 
+<p align="center">
+  <img src="https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/ResNetCBAM.png" width="350" title="hover text">
+</p>
 
 ### Solution
 - Implemented a ResNet-15 model for classification
