@@ -64,7 +64,16 @@ This repository contains solutions for various particle physics tasks using deep
 - Compared results with a model trained from scratch
 - Ensured no overfitting on the test dataset
 
-###Image Reconstruction
+### Image Reconstruction
+##                                            Original
+<p align="center">
+  <img src="https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Original.jpg" width="350" title="hover text">
+</p>
+
+##                                           Reconstrcted
+<p align="center">
+  <img src="https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Specific%20Task%203d%20-%20Masked_Autoencoder/Reconstructed.jpg" width="350" title="hover text">
+</p>
 
 ### Comparison of With and Without Pretrained Vision Transformer Model
                           | Model               | Accuracy |
