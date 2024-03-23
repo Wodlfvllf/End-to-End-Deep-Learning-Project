@@ -57,6 +57,10 @@ This repository contains solutions for various particle physics tasks using deep
 2. Compare reconstruction results using MAE on both training and testing datasets.
 3. Fine-tune the model on a lower learning rate on the provided labelled dataset and compare results with a model trained from scratch.
 
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fpaper-explained-masked-autoencoders-are-scalable-vision-learners-9dea5c5c91f0&psig=AOvVaw2NJzgiqDdf7Vx6_6JOkR4p&ust=1711270261018000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC9jtOAioUDFQAAAAAdAAAAABAI" width="700" title="hover text">
+</p>
+
 ### Implementation
 - Trained a lightweight ViT using MAE on unlabelled dataset
 - Compared reconstruction results on training and testing datasets
