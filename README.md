@@ -101,7 +101,7 @@ These are Example Notebooks to inference or reproduce the results
                           | Model               | Accuracy |
                           |---------------------|----------|
                           | With Pretrained     | 0.8548   |
-                          | Without Pretrained  | 0.0951   |
+                          | Without Pretrained  | 0.7151   |
                           
 Both models are fine-tuned on learning rate of 1.e-5 using AdamW optimizer.
 
