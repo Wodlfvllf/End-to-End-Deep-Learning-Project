@@ -28,11 +28,10 @@
 </p>
 
 ### Comparison of With and Without Pretrained Vision Transformer Model
-                          | Model               | Accuracy |
-                          |---------------------|----------|
-                          | With Pretrained     | 0.8548   |
-                          | Without Pretrained  | 0.7151   |
-                          
+<p align="center">
+  <img src="
+https://github.com/Wodlfvllf/E2E/blob/Masked_autoencoders_Shashank/Masked_AutoEncoders_E2E_GSCO24_Shashank_Shukla/Performance_table.webp" width="700" title="hover text">
+</p>                         
 Both models are fine-tuned on learning rate of 1.e-5 using AdamW optimizer.
 
             
